@@ -1,0 +1,80 @@
+ .titulo{
+ 	font-size: 1cm;
+ 	text-align: center;
+ 	font-family: sans-serif;
+ 	background-color:#fff; 
+ 	color:#b244cf;
+ 	padding: 0.5cm;
+ 	width:75%;
+ 	margin:auto;
+    border-radius:15px;
+ 	
+ }
+
+.td_3{
+
+}
+
+.imagen{
+	background-color:#fff;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.categorias{
+	text-align:center;
+	width: 75%;
+	padding: 1cm;  
+    border-radius:15px; 
+}
+
+.parrafo{
+	font-size:0.8cm;
+	text-align:center;
+	font-family: sans-serif;
+	background-color:#fff;
+	padding:2cm; 
+	color:#b244cf;
+	border-radius:15px;
+
+}
+
+.td{
+	padding: 5%;
+	font-size:0.7cm;
+	font-family: sans-serif;
+	background-color:#fff; 
+	color:#b244cf;
+	border-radius: 15px;
+
+}
+
+.pie{
+	text-align: center;
+	background-color:black;
+	padding: 15px;
+	font-size:0.7cm;
+	font-family: sans-serif;
+	margin: auto;
+	border-radius: 15px;
+	color:#fff;
+}
+
+.yolo{
+	color: #b244cf;
+	border-radius: 20px;
+}
+a{
+	text-decoration:none;
+
+}
+.titu{
+	text-align: center;
+ 	font-family: sans-serif;
+ 	background-color:#fff;
+ 	color:#b244cf;
+ 	padding: 0.5cm;
+ 	width: 25%;
+ 	margin: auto;
+ 	border-radius: 15px;
+}
